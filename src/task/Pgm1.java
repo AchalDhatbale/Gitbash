@@ -3,7 +3,7 @@ package task;
 import java.util.Scanner;
 
 public class Pgm1 {
-	
+	//edit
 	public static String stringRev(String str) {
 		String rev="";
 		for(int i=str.length()-1;i>=0;i--) {
